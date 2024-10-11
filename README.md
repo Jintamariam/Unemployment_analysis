@@ -15,7 +15,11 @@ Data visualization using matplotlib and seaborn
 
 ## Libraries Used
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
+
 scikit-learn
